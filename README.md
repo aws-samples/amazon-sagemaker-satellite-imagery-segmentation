@@ -1,11 +1,8 @@
-## My Project
+# Deep Learning with Amazon SageMaker on Satellite Imagery
 
-TODO: Fill this README out!
+In this workshop, we will demonstrate how to train and host a semantic segmentation model with different deep learning models (DeepLab, UNet, and more) on a SpaceNet dataset to train a building segmentation model.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+We will use the SpaceNet SN6: Multi-Sensor All-Weather Mapping dataset. The data is hosted on AWS as a [public dataset on Amazon S3](https://registry.opendata.aws/spacenet/). 
 
 ## Security
 
@@ -13,5 +10,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
+The [NOTICE](THIRD-PARTY) includes third-party licenses used in this repository.
